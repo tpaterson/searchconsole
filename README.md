@@ -1,3 +1,15 @@
+# Pages Used to Build Search Component
+https://medium.com/@karshan77/salesforce-dx-how-to-create-scratch-org-3a64050462f6
+https://www.salesforcecodecrack.com/2019/08/custom-search-functionality-in.html
+
+Allow LWC as Utility Bar
+https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_config_for_utility_bar
+
+
+Use as Quick Action / Global Action
+http://theblogreaders.com/call-lightning-web-comopnent-salesforce-quickactions/
+
+
 # Salesforce App
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
